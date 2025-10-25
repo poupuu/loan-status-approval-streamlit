@@ -25,4 +25,4 @@ Predicting client's loan approval status using classification model, comparing R
 ## Next Steps
 1. Adding Model Explainability (XAI) to intergrate why the model approved or denied a specific loan, providing transparency for bank staff
 2. Provide actionable advice based on prediction
-3. Adding Weights to some feature importance that impact significantly loan status approval
+3. Adding Weights to some feature importance explicitly that impact significantly loan status approval because a bad loan (False Positives) is more costly than a missed good loan (False Negatives).
