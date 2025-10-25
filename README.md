@@ -19,6 +19,7 @@ Predicting client's loan approval status using classification model, comparing R
 3. Frontend: Streamlit
    
 ## Results
+![Streamlit Classification Results](assets/Streamlit-Loan-Prediction-Results.png)
 1. XGBClassfier was the best performing model with accuracy 93.35%
 2. A final model.pkl succefully created ready to used in a live application
    
